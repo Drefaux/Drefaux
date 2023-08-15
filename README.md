@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drefaux
-- 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning VueJS
+- 👀 I’m currently a Backend Developer for Genki System
+
 
 
 <!---
